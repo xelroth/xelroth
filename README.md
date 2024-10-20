@@ -22,7 +22,7 @@
 ---
 
 ## 📧 Contact Me:
-For inquiries or collaborations, please reach out via email: [devkoohyar@gmail.com](mailto:devkoohyar@gmail.com)
+For inquiries or collaborations, please reach out via email: [@gmail.com](mailto:@gmail.com)
 
 ---
 
