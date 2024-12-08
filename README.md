@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zelroth666) [koohyar.py) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/xelroth.py) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zelroth666) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/xelroth.py) 
 [![Telegram](https://img.shields.io/badge/Telegram-%2300A6D9.svg?logo=telegram&logoColor=white)](https://t.me/zelroth)
 
 # 💻 Tech Stack:
